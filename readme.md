@@ -1,13 +1,12 @@
+---
+layout: post
 title: 标题
-id: post-20180101000000
 tags:
   - 标签
 categories:
   - 分类
-date: 2018-01-01 00:00:00
-top: true
-origin: true
-repro: true
+date: 2018-01-01 00:00:00+00:00
+description: 梗概
 ---
 ### 正文开始
 
